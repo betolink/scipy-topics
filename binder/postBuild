@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# download english  & spanish models
+python -m spacy download en
+python -m spacy download es
+
+# download english and spanish word embeding vertors
+curl -L "https://www.dropbox.com/s/32qk0nymcynu1cw/glove.6B.100d.vec.tar.gz?dl=1" | tar zx --directory=/home/jovyan/notebooks/models/
+
+curl -L "https://zenodo.org/record/3234051/files/embeddings-s-model.vec?download=1" | tar zx --directory=/home/jovyan/notebooks/models/
