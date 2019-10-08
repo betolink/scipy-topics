@@ -1,4 +1,6 @@
-# A fun example of topic modeling using LDA on Gabriel Garcia Marquez's 100 Years of solitude  <img align="right" width="60" src="https://www.goliath.com/wp-content/uploads/2015/11/one-hundred-years-of-solitude-original-imadj8fyvx6gbmgf-730x1108.jpeg">
+# A fun example of topic modeling using LDA on Gabriel Garcia Marquez's 100 Years of solitude
+
+<img align="left" width="300" src="https://www.goliath.com/wp-content/uploads/2015/11/one-hundred-years-of-solitude-original-imadj8fyvx6gbmgf-730x1108.jpeg">
 
 Run this notebook in a browser by clicking on the button below.
 
