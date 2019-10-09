@@ -23,5 +23,5 @@ jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='0.0.0.0' --port=8888 
 ### LICENSE
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-<img align="left" width="300" src="data/100clusters.png">
+<img align="left" width="600" src="data/100clusters.png">
 
